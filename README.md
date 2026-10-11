@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anas Abu Kasem
 
-A **Computer Engineering Graduate** and **Data Science & AI Programmer** with a strong passion for designing and building intelligent, data-driven software solutions. I specialize in developing end-to-end applications—ranging from scalable web platforms and CRM systems to advanced machine learning models and automated workflows.
+A **Computer Engineering Graduate** and **Data Science & AI Programmer** with a strong passion for designing and building intelligent, data driven software solutions. I specialize in developing end to end applications ranging from scalable web platforms and CRM systems to advanced machine learning models and automated workflows.
 
 ---
 
